@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de estudar
+    Sou Desenvolvedor Fullstack e gosto muito de estudar
   </p>
   
 </div>
