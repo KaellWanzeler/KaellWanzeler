@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/kaellwanzeler/">Kaell Wanzeler😃️</a>
+    <a href="https://www.linkedin.com/in/kaell-wanzeler-290724294/">Kaell Wanzeler😃️</a>
   </h1>
   
   <p align="center">
